@@ -1,7 +1,7 @@
 # Description
 
-Repo to download all images in http://madz.gg/
+Repo to download all images from http://madz.gg/
 
 # Credits
 
-[https://www.reddit.com/user/TTGmaDz](u/TTGmaDz)
+[u/TTGmaDz](https://www.reddit.com/user/TTGmaDz)
