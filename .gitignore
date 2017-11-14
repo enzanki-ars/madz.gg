@@ -1,0 +1,8 @@
+.images/
+.sorttable.js
+.style.css
+
+
+!/.images/
+!/.sorttable.js
+!/.style.css

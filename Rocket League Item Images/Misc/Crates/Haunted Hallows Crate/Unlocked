@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+   <meta charset="UTF-8">
+   <link rel="shortcut icon" href="./.favicon.ico">
+   <title>Directory Contents</title>
+
+   <link rel="stylesheet" href="./.style.css">
+   <script src="./.sorttable.js"></script>
+</head>
+
+<body>
+<div id="container">
+	<h1>Directory Contents</h1>
+
+	<table class="sortable">
+	    <thead>
+		<tr>
+			<th>Filename</th>
+			<th>Type</th>
+			<th>Size</th>
+			<th>Date Modified</th>
+		</tr>
+	    </thead>
+	    <tbody>
+		<tr class='file'>
+			<td><a href='./Default.png' class='name'>Default.png</a></td>
+			<td><a href='./Default.png'>PNG Image</a></td>
+			<td sorttable_customkey='91123'><a href='./Default.png'>89 KB</a></td>
+			<td sorttable_customkey='20171107034207'><a href='./Default.png'>Nov 7 2017 3:42 AM</a></td>
+		</tr>
+	    </tbody>
+	</table>
+
+	<h2><a href='http://madz.gg/Rocket%20League%20Item%20Images/Misc/Crates/Haunted Hallows Crate/'>Go Back</a></h2>
+</div>
+</body>
+</html>
