@@ -1,7 +1,11 @@
-# Description
+# Rocket League Item Images
 
-Repo to download all images from http://madz.gg/
+Images for items in Rocket League.  Not complete.
 
 # Credits
 
-[u/TTGmaDz](https://www.reddit.com/user/TTGmaDz)
+Images: 
+ - [u/TTGmaDz](https://www.reddit.com/user/TTGmaDz)
+ - [u/enzanki_ars](https://www.reddit.com/user/enzanki_ars)
+Item List: 
+ - [u/catexception](https://www.reddit.com/user/catexception)
