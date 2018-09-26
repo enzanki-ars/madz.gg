@@ -1,6 +1,12 @@
 # Rocket League Item Images
 
-Images for items in Rocket League.  Not complete.
+List of items and images in Rocket League as of Patch v1.53.  
+
+## Known Issues
+
+ - Images may be missing for certain items.
+ - Some items do not have their image linked in the database.
+ - Not all color variants are listed in the database and may not have images.
 
 # Credits
 
@@ -13,4 +19,3 @@ Images:
 Item List: 
  - [u/catexception](https://www.reddit.com/user/catexception)
  - [Bakkesmod](http://bakkesmod.com/)
-
