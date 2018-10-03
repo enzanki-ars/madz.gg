@@ -580,7 +580,7 @@ ID,FullName,AssetPackageName,AsciiLabel,Quality,UnlockMethod,FileLocation
 640,Product_TA ProductsDB.Products.Hat_ReindeerAntlers,Hat_ReindeerAntlers,Blitzen,EPQ_Limited,UnlockMethod_Reward,Topper/Blitzen/Default.png
 641,Product_TA ProductsDB.Products.Hat_SadChristmasTree,Hat_SadChristmasTree,Sad Sapling,EPQ_Limited,UnlockMethod_Reward,Topper/Sad Sapling/Default.png
 642,Product_TA ProductsDB.Products.Hat_SantaHat,Hat_SantaHat,Santa,EPQ_Limited,UnlockMethod_Reward,Topper/Santa/Default.png
-644,Product_TA ProductsDB.Products.Hat_LightBulb,Hat_LightBulb,Light Bulb,EPQ_Uncommon,UnlockMethod_Reward,Topper/Lightbulb/Default.png
+644,Product_TA ProductsDB.Products.Hat_LightBulb,Hat_LightBulb,Light Bulb,EPQ_Uncommon,UnlockMethod_Reward,Topper/Light Bulb/Default.png
 645,Product_TA ProductsDB.Products.flag_rl_garage,flag_rl_garage,RL Garage,EPQ_Common,UnlockMethod_Default,Antenna/Flags/RL Garage/Default.png
 649,Product_TA ProductsDB.Products.Antenna_CandyCane,Antenna_CandyCane,Candy Cane,EPQ_Limited,UnlockMethod_Reward,Antenna/Candy Cane/Default.png
 650,Product_TA ProductsDB.Products.Antenna_ChristmasGift,Antenna_ChristmasGift,Holiday Gift,EPQ_Limited,UnlockMethod_Reward,
@@ -684,7 +684,7 @@ ID,FullName,AssetPackageName,AsciiLabel,Quality,UnlockMethod,FileLocation
 799,Product_TA ProductsDB.Products.Flag_9Gag,Flag_9Gag,9GAG,EPQ_Common,UnlockMethod_Default,Antenna/Flags/9Gag/Default.png
 800,Product_TA ProductsDB.Products.Antenna_DiscoBall,Antenna_DiscoBall,Disco Ball,EPQ_Uncommon,UnlockMethod_Reward,Antenna/Disco Ball/Default.png
 802,Product_TA ProductsDB.Products.Flag_IGN,Flag_IGN,IGN,EPQ_Common,UnlockMethod_Default,
-803,Product_TA ProductsDB.Products.Body_Darkcar,Body_Darkcar,Batmobile,EPQ_Premium,UnlockMethod_DLC,Bodies/Batmobile/Default.png
+803,Product_TA ProductsDB.Products.Body_Darkcar,Body_Darkcar,Batmobile,EPQ_Premium,UnlockMethod_DLC,Bodies/16 Batmobile/Default.png
 804,Product_TA ProductsDB.Products.Flag_Batman,Flag_Batman,Batman,EPQ_Premium,UnlockMethod_DLC,Antenna/Flags/Batman/Default.png
 805,Product_TA ProductsDB.Products.Flag_Superman,Flag_Superman,Superman,EPQ_Premium,UnlockMethod_DLC,Antenna/Flags/Superman/Default.png
 806,Product_TA ProductsDB.Products.Flag_WonderWoman,Flag_WonderWoman,Wonder Woman,EPQ_Premium,UnlockMethod_DLC,Antenna/Flags/Wonder Woman/Default.png
@@ -737,9 +737,9 @@ ID,FullName,AssetPackageName,AsciiLabel,Quality,UnlockMethod,FileLocation
 863,Product_TA ProductsDB.Products.CountryFlag_Grenada,CountryFlag_Grenada,Grenada,EPQ_Common,UnlockMethod_Default,Antenna/Flags/Country Flags/Default.png
 864,Product_TA ProductsDB.Products.CountryFlag_Montserrat,CountryFlag_Montserrat,Montserrat,EPQ_Common,UnlockMethod_Default,Antenna/Flags/Country Flags/Default.png
 867,Product_TA ProductsDB.Products.Antenna_GoatSimulator_Goat,Antenna_GoatSimulator_Goat,Goat Simulator - Goatenna,EPQ_Common,UnlockMethod_Drop,
-868,Product_TA ProductsDB.Products.Boost_DarkCar,Boost_DarkCar,Batmobile,EPQ_Premium,UnlockMethod_DLC,Boost/Batmobile/Default.png
+868,Product_TA ProductsDB.Products.Boost_DarkCar,Boost_DarkCar,Batmobile,EPQ_Premium,UnlockMethod_DLC,Boost/16 Batmobile/Default.png
 869,Product_TA ProductsDB.Products.Flag_RocketBeans,Flag_RocketBeans,Rocket Beans TV,EPQ_Common,UnlockMethod_Default,
-874,Product_TA ProductsDB.Products.WHEEL_Darkcar,WHEEL_Darkcar,Batmobile,EPQ_Premium,UnlockMethod_DLC,Wheel/Batmobile/Default.png
+874,Product_TA ProductsDB.Products.WHEEL_Darkcar,WHEEL_Darkcar,Batmobile,EPQ_Premium,UnlockMethod_DLC,Wheel/16 Batmobile/Default.png
 916,Product_TA ProductsDB.Products.Flag_PAX,Flag_PAX,PAX,EPQ_Common,UnlockMethod_Drop,Antenna/Flags/Pax/Default.png
 917,Product_TA ProductsDB.Products.Flag_PennyArcade,Flag_PennyArcade,Penny Arcade,EPQ_Common,UnlockMethod_Drop,Antenna/Flags/Penny Arcade/Default.png
 918,Product_TA ProductsDB.Products.Antenna_DIV,Antenna_DIV,Div,EPQ_Common,UnlockMethod_Drop,Antenna/Div/Default.png
@@ -912,10 +912,10 @@ ID,FullName,AssetPackageName,AsciiLabel,Quality,UnlockMethod,FileLocation
 1427,Product_TA ProductsDB.Products.skin_rhino2_muerto,skin_rhino2_muerto,Muerto,EPQ_Common,UnlockMethod_Default,Decal/Road Hog XL/Muerto/Default.png
 1428,Product_TA ProductsDB.Products.skin_rhino2_munchkin,skin_rhino2_munchkin,Playtime,EPQ_Common,UnlockMethod_Default,Decal/Road Hog XL/Playtime/Default.png
 1429,Product_TA ProductsDB.Products.ItemContainer_2_Default,ItemContainer,Crate - Champion 2,EPQ_Rare,UnlockMethod_Reward,Crates/Champions Crate 2/Default.png
-1435,Product_TA ProductsDB.Products.skin_heatwave,skin_heatwave,Heatwave,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Black Market Decals/Heatwave/Default.png
-1436,Product_TA ProductsDB.Products.Skin_Labyrinth,Skin_Labyrinth,Labyrinth,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Black Market Decals/Labyrinth/Default.png
-1437,Product_TA ProductsDB.Products.Skin_Pixelfire,Skin_Pixelfire,Parallax,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Black Market Decals/Parallax/Default.png
-1438,Product_TA ProductsDB.Products.Skin_Slipstream,Skin_Slipstream,Slipstream,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Black Market Decals/Slipstream/Default.png
+1435,Product_TA ProductsDB.Products.skin_heatwave,skin_heatwave,Heatwave,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Universal/Heatwave/Default.png
+1436,Product_TA ProductsDB.Products.Skin_Labyrinth,Skin_Labyrinth,Labyrinth,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Universal/Labyrinth/Default.png
+1437,Product_TA ProductsDB.Products.Skin_Pixelfire,Skin_Pixelfire,Parallax,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Universal/Parallax/Default.png
+1438,Product_TA ProductsDB.Products.Skin_Slipstream,Skin_Slipstream,Slipstream,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Universal/Slipstream/Default.png
 1442,Product_TA ProductsDB.Products.Skin_Rhino_Premium_Stripes,body_rhino_premium_skins,Carbonated,EPQ_Rare,UnlockMethod_Reward,Decal/Road Hog/Carbonated/Default.png
 1443,Product_TA ProductsDB.Products.Skin_Rhino_SnakeSkin,body_rhino_premium_skins,Snakeskin,EPQ_VeryRare,UnlockMethod_Reward,Decal/Road Hog/Snakeskin/Default.png
 1447,Product_TA ProductsDB.Products.skin_torch_edgedots,skin_torch_edgedots,X-Devil: Dot Matrix,,,
@@ -991,9 +991,9 @@ ID,FullName,AssetPackageName,AsciiLabel,Quality,UnlockMethod,FileLocation
 1573,Product_TA ProductsDB.Products.Skin_O2_Peace,Skin_O2_Peace,Peace,EPQ_Common,UnlockMethod_Default,Decal/Octane ZSR/Peace/Default.png
 1574,Product_TA ProductsDB.Products.Skin_O2_Spotlight,Skin_O2_Spotlight,Gobo,EPQ_Common,UnlockMethod_Default,Decal/Octane ZSR/Gobo/Default.png
 1575,Product_TA ProductsDB.Products.Skin_O2_Superflames,Skin_O2_Superflames,Wildfire,EPQ_Common,UnlockMethod_Default,Decal/Octane ZSR/Wildfire/Default.png
-1577,Product_TA ProductsDB.Products.Skin_Carnage,Skin_Carnage,Biomass,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Black Market Decals/Biomass/Default.png
-1578,Product_TA ProductsDB.Products.Skin_Hexwave,Skin_Hexwave,Hexed,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Black Market Decals/Hexed/Default.png
-1579,Product_TA ProductsDB.Products.Skin_Youken,Skin_Youken,Spectre,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Black Market Decals/Spectre/Default.png
+1577,Product_TA ProductsDB.Products.Skin_Carnage,Skin_Carnage,Biomass,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Universal/Biomass/Default.png
+1578,Product_TA ProductsDB.Products.Skin_Hexwave,Skin_Hexwave,Hexed,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Universal/Hexed/Default.png
+1579,Product_TA ProductsDB.Products.Skin_Youken,Skin_Youken,Spectre,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Universal/Spectre/Default.png
 1580,Product_TA ProductsDB.Products.WHEEL_Proto09,WHEEL_Proto09,Zomba,EPQ_Exotic,UnlockMethod_Reward,Wheel/Zomba/Default.png
 1581,Product_TA ProductsDB.Products.WHEEL_Proto10,WHEEL_Proto10,ARA-51,EPQ_Exotic,UnlockMethod_Reward,Wheel/ARA-51/Default.png
 1583,Product_TA ProductsDB.Products.WHEEL_Gilliam,WHEEL_Gilliam,Vulcan,EPQ_Premium,UnlockMethod_DLC,Wheel/Vulcan/Default.png
@@ -1027,7 +1027,7 @@ ID,FullName,AssetPackageName,AsciiLabel,Quality,UnlockMethod,FileLocation
 1633,Product_TA ProductsDB.Products.skin_force_tattoo,skin_force_tattoo,Heiwa,EPQ_Rare,UnlockMethod_Reward,Decal/Breakout/Heiwa/Default.png
 1636,Product_TA ProductsDB.Products.skin_neocar_chibi,skin_neocar_chibi,Kawaii,EPQ_Rare,UnlockMethod_Reward,
 1637,Product_TA ProductsDB.Products.skin_octane_sknight,skin_octane_sknight,Griffon,EPQ_Rare,UnlockMethod_Reward,Decal/Octane/Griffon/Default.png
-1638,Product_TA ProductsDB.Products.boost_zti,boost_zti,Magic Missile,EPQ_Import,UnlockMethod_Reward,Boost/Magic Missle/Default.png
+1638,Product_TA ProductsDB.Products.boost_zti,boost_zti,Magic Missile,EPQ_Import,UnlockMethod_Reward,Boost/Magic Missile/Default.png
 1639,Product_TA ProductsDB.Products.flag_redflame,flag_redflame,Hot Wheels,EPQ_Common,UnlockMethod_Drop,
 1640,Product_TA ProductsDB.Products.flag_whiteflame,flag_whiteflame,Treasure Hunt,EPQ_Common,UnlockMethod_Drop,
 1641,Product_TA ProductsDB.Products.Hat_Chomper_PA,hat_chomper,Shark Bite,EPQ_Common,UnlockMethod_Drop,Topper/Shark Bite/Default.png
@@ -1060,10 +1060,10 @@ ID,FullName,AssetPackageName,AsciiLabel,Quality,UnlockMethod,FileLocation
 1676,Product_TA ProductsDB.Products.antenna_easteregg,antenna_easteregg,Easter Egg,EPQ_Limited,UnlockMethod_Reward,Antenna/Easter Egg/Default.png
 1677,Product_TA ProductsDB.Products.hat_bunnyears,hat_bunnyears,Bunny Ears,EPQ_Limited,UnlockMethod_Reward,Topper/Bunny Ears/Default.png
 1678,Product_TA ProductsDB.Products.hat_easterbasket,hat_easterbasket,Easter Basket,EPQ_Limited,UnlockMethod_Reward,Topper/Easter Basket/Default.png
-1679,Product_TA ProductsDB.Products.skin_toratora,skin_toratora,Tora,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Black Market Decals/Tora/Default.png
+1679,Product_TA ProductsDB.Products.skin_toratora,skin_toratora,Tora,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Universal/Tora/Default.png
 1680,Product_TA ProductsDB.Products.boost_taco,boost_taco,Taco,EPQ_VeryRare,UnlockMethod_Reward,Boost/Taco/Default.png
 1681,Product_TA ProductsDB.Products.paintfinish_circuitboard,paintfinish_circuitboard,Circuit Board,EPQ_Rare,UnlockMethod_Reward,Paint/Circuit Board/Default.png
-1684,Product_TA ProductsDB.Products.skin_quantize,skin_quantize,20XX,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Black Market Decals/20xx/Default.png
+1684,Product_TA ProductsDB.Products.skin_quantize,skin_quantize,20XX,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Universal/20xx/Default.png
 1687,Product_TA ProductsDB.Products.skin_scallop_racer,skin_scallop_racer,Speedster,EPQ_Premium,UnlockMethod_DLC,Decal/Twin Mill III/Speedster/Default.png
 1688,Product_TA ProductsDB.Products.paintfinish_craters,paintfinish_craters,Moon Rock,EPQ_VeryRare,UnlockMethod_Reward,Paint/Moon Rock/Default.png
 1691,Product_TA ProductsDB.Products.body_flatbread,body_flatbread,Mantis,EPQ_Import,UnlockMethod_Reward,Bodies/Mantis/Default.png
@@ -1177,7 +1177,7 @@ ID,FullName,AssetPackageName,AsciiLabel,Quality,UnlockMethod,FileLocation
 1875,Product_TA ProductsDB.Products.wheel_compression,wheel_compression,Revenant,EPQ_VeryRare,UnlockMethod_Reward,
 1881,Product_TA ProductsDB.Products.wheel_proto14,wheel_proto14,GA-819 HB,EPQ_Limited,UnlockMethod_Reward,
 1883,Product_TA ProductsDB.Products.body_Multigrain,body_Multigrain,Imperator DT5,EPQ_Import,UnlockMethod_Reward,
-1888,Product_TA ProductsDB.Products.Skin_Meta,Skin_Meta,Bubbly,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Black Market Decals/Bubbly/Default.png
+1888,Product_TA ProductsDB.Products.Skin_Meta,Skin_Meta,Bubbly,EPQ_BlackMarket,UnlockMethod_Reward,Decal/Universal/Bubbly/Default.png
 1894,Product_TA ProductsDB.Products.body_wheatbread,body_wheatbread,Samurai,EPQ_Import,UnlockMethod_Reward,
 1898,Product_TA ProductsDB.Products.SS_ScifiStreak,SS_ScifiStreak,Lightspeed,EPQ_VeryRare,UnlockMethod_Reward,Supersonic Trails/Lightspeed/Default.png
 1899,Product_TA ProductsDB.Products.SS_ToonFlames,SS_ToonFlames,Blazer,EPQ_VeryRare,UnlockMethod_Reward,Supersonic Trails/Blazer/Default.png
@@ -1206,7 +1206,7 @@ ID,FullName,AssetPackageName,AsciiLabel,Quality,UnlockMethod,FileLocation
 1938,Product_TA ProductsDB.Products.Skin_Focaccia_Senna,Skin_Focaccia_Senna,Monza,EPQ_Common,UnlockMethod_Default,Decal/Animus GP/Monza/Default.png
 1943,Product_TA ProductsDB.Products.wheel_hiro,wheel_hiro,Hiro,EPQ_Import,UnlockMethod_Reward,
 1945,Product_TA ProductsDB.Products.wheel_focaccia,wheel_focaccia,SLK,EPQ_VeryRare,UnlockMethod_Reward,Wheel/SLK/Default.png
-1946,Product_TA ProductsDB.Products.wheel_rmp,wheel_rmp,Sanchez DC-137,EPQ_Common,UnlockMethod_Drop,Wheel/Sanchez  DC-137/Default.png
+1946,Product_TA ProductsDB.Products.wheel_rmp,wheel_rmp,Sanchez DC-137,EPQ_Common,UnlockMethod_Drop,Wheel/Sanchez DC-137/Default.png
 1948,Product_TA ProductsDB.Products.ss_default,ss_default,Classic,EPQ_Common,UnlockMethod_Default,Supersonic Trails/Classic/Default.png
 1950,Product_TA ProductsDB.Products.wheel_yuzo,wheel_yuzo,Yuzo,EPQ_VeryRare,UnlockMethod_Reward,
 1953,Product_TA ProductsDB.Products.skin_endo_splat,skin_endo_splat,Spatter,EPQ_Rare,UnlockMethod_Reward,Decal/Endo/Splatter/Default.png
@@ -1215,7 +1215,7 @@ ID,FullName,AssetPackageName,AsciiLabel,Quality,UnlockMethod,FileLocation
 1957,Product_TA ProductsDB.Products.boost_rm,boost_rm,Interdimensional GB,EPQ_Common,UnlockMethod_Drop,Boost/Interdimensional GB/Default.png
 1961,Product_TA ProductsDB.Products.engineAudio_Wheatbread,engineAudio_Wheatbread,Samurai,EPQ_Common,UnlockMethod_Special,
 1963,Product_TA ProductsDB.Products.skin_octane_min_line,skin_octane_min_line,Slimline,EPQ_Rare,UnlockMethod_Reward,
-1964,Product_TA ProductsDB.Products.ss_darkcar,ss_darkcar,Batmobile,EPQ_Premium,UnlockMethod_DLC,Supersonic Trails/Batmobile/Default.png
+1964,Product_TA ProductsDB.Products.ss_darkcar,ss_darkcar,Batmobile,EPQ_Premium,UnlockMethod_DLC,Supersonic Trails/16 Batmobile/Default.png
 1966,Product_TA ProductsDB.Products.SS_GreyCar,SS_GreyCar,DeLorean Time Machine,EPQ_Premium,UnlockMethod_DLC,Supersonic Trails/Delorean Time Machine/Default.png
 1967,Product_TA ProductsDB.Products.ss_warthog,ss_warthog,Hogsticker,EPQ_Common,UnlockMethod_Special,
 1968,Product_TA ProductsDB.Products.flag_monstercat,flag_monstercat,Monstercat,EPQ_Common,UnlockMethod_Default,
@@ -1377,7 +1377,7 @@ ID,FullName,AssetPackageName,AsciiLabel,Quality,UnlockMethod,FileLocation
 2363,Product_TA ProductsDB.Products.skin_endo_mummy,skin_endo_mummy,Mummified,EPQ_Rare,UnlockMethod_Reward,
 2367,Product_TA ProductsDB.Products.skin_flatbread_mrhammers,skin_flatbread_mrhammers,Hammerhead,EPQ_Limited,UnlockMethod_Reward,
 2373,Product_TA ProductsDB.Products.engineAudio_Challah,engineAudio_Challah,'70 Dodge Charger R/T,EPQ_Premium,UnlockMethod_DLC,
-2374,Product_TA ProductsDB.Products.skin_Challah_01,skin_Challah_01,Alameda Twin,EPQ_Premium,UnlockMethod_DLC,Decal/70 Dodge Charger RT/Alameda Twin/Alameda Twin.png
+2374,Product_TA ProductsDB.Products.skin_Challah_01,skin_Challah_01,Alameda Twin,EPQ_Premium,UnlockMethod_DLC,Decal/70 Dodge Charger RT/Alameda Twin/Default.png
 2375,Product_TA ProductsDB.Products.skin_Challah_02,skin_Challah_02,Good Graces,EPQ_Premium,UnlockMethod_DLC,Decal/70 Dodge Charger RT/Good Graces/Default.png
 2376,Product_TA ProductsDB.Products.skin_Challah_stripes,skin_Challah_stripes,Rally,EPQ_Premium,UnlockMethod_DLC,Decal/70 Dodge Charger RT/Rally/Default.png
 2377,Product_TA ProductsDB.Products.hat_cargoyle,hat_cargoyle,Gargoyle,EPQ_Limited,UnlockMethod_Reward,Topper/Gargoyle/Default.png
@@ -1387,7 +1387,7 @@ ID,FullName,AssetPackageName,AsciiLabel,Quality,UnlockMethod,FileLocation
 2394,Product_TA ProductsDB.Products.boost_abstractfire,boost_abstractfire,Fractal Fire,EPQ_Import,UnlockMethod_Reward,
 2395,Product_TA ProductsDB.Products.hat_babyelephant,hat_babyelephant,Little Elephant,EPQ_Uncommon,UnlockMethod_Reward,Topper/Little Elephant/Default.png
 2396,Product_TA ProductsDB.Products.skin_Challah_03,skin_Challah_03,Sinclair,EPQ_Premium,UnlockMethod_DLC,Decal/70 Dodge Charger RT/Sinclair/Default.png
-2397,Product_TA ProductsDB.Products.skin_Challah_04,skin_Challah_04,Wheelman,EPQ_Premium,UnlockMethod_DLC,Decal/70 Dodge Charger RT/Wheelman/Wheelman.png
+2397,Product_TA ProductsDB.Products.skin_Challah_04,skin_Challah_04,Wheelman,EPQ_Premium,UnlockMethod_DLC,Decal/70 Dodge Charger RT/Wheelman/Default.png
 2398,Product_TA ProductsDB.Products.skin_Challah_flames,skin_Challah_flames,Flames,EPQ_Premium,UnlockMethod_DLC,Decal/70 Dodge Charger RT/Flames/Default.png
 2400,Product_TA ProductsDB.Products.ss_redwhite,ss_redwhite,Candy Cane,EPQ_VeryRare,UnlockMethod_Reward,
 2401,Product_TA ProductsDB.Products.wheel_witchbrew,wheel_witchbrew,Cauldron,EPQ_Import,UnlockMethod_Reward,Wheel/Cauldron/Default.png
@@ -1533,7 +1533,7 @@ ID,FullName,AssetPackageName,AsciiLabel,Quality,UnlockMethod,FileLocation
 2633,Product_TA ProductsDB.Products.playerbanner_s5reward_diamond_alt,playerbanner_s5reward_diamond_alt,Season 5 - Diamond,EPQ_Limited,UnlockMethod_Reward,Banners/Season 5 Rewards/Diamond.png
 2634,Product_TA ProductsDB.Products.playerbanner_s5reward_gold_alt,playerbanner_s5reward_gold_alt,Season 5 - Gold,EPQ_Limited,UnlockMethod_Reward,Banners/Season 5 Rewards/Gold.png
 2635,Product_TA ProductsDB.Products.playerbanner_s5reward_grandchamp_alt,playerbanner_s5reward_grandchamp_alt,Season 5 - Grand Champion,EPQ_Limited,UnlockMethod_Reward,Banners/Season 5 Rewards/Grand Champion.png
-2636,Product_TA ProductsDB.Products.playerbanner_s5reward_platinum_alt,playerbanner_s5reward_platinum_alt,Season 5 - Platinum,EPQ_Limited,UnlockMethod_Reward,Banners/Season 5 Rewards/Platnium.png
+2636,Product_TA ProductsDB.Products.playerbanner_s5reward_platinum_alt,playerbanner_s5reward_platinum_alt,Season 5 - Platinum,EPQ_Limited,UnlockMethod_Reward,Banners/Season 5 Rewards/Platinum.png
 2637,Product_TA ProductsDB.Products.playerbanner_s5reward_silver_alt,playerbanner_s5reward_silver_alt,Season 5 - Silver,EPQ_Limited,UnlockMethod_Reward,Banners/Season 5 Rewards/Silver.png
 2645,Product_TA ProductsDB.Products.boost_bfooom,boost_bfooom,Tsunami Beam,EPQ_Import,UnlockMethod_Reward,
 2648,Product_TA ProductsDB.Products.hat_cutlass,hat_cutlass,Cutlass,,,
